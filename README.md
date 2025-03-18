@@ -1,2 +1,2 @@
 # leetcode
-daily leetcode questions repository
+tueely leetcode questions' explanation repository
